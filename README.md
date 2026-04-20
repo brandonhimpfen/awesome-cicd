@@ -54,6 +54,7 @@
 
 - [Make](https://www.gnu.org/software/make/) – Classic build automation tool.
 - [Bazel](https://bazel.build/) – Fast, scalable build and test system.
+- [FailureMemory](https://github.com/UnguisAI/failurememory) – GitHub Action for recurring CI failure fingerprinting and memory-backed triage for GitHub Actions.
 - [Gradle](https://gradle.org/) – Build automation tool for JVM-based projects.
 - [Maven](https://maven.apache.org/) – Dependency management and build tool for Java.
 - [pytest](https://docs.pytest.org/) – Popular Python testing framework.
