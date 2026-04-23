@@ -45,6 +45,7 @@
 ## Pipeline Configuration & Orchestration
 
 - [YAML Pipelines](https://yaml.org/) – Declarative configuration format for defining CI/CD workflows.
+- [YAML Validator](https://yamlvalidator.dev), [(chrome extension)](https://chromewebstore.google.com/detail/yaml-validator/gjgbohnlhijomhfiflapnlnmcpckgigg) – Online YAML validator and formatter with JSON Schema support for CI/CD pipeline configs including GitHub Actions, CircleCI, and Bitbucket Pipelines.
 - [Tekton](https://tekton.dev/) – Kubernetes-native framework for building CI/CD systems.
 - [Argo Workflows](https://argo-workflows.readthedocs.io/) – Workflow engine for Kubernetes-based pipelines.
 - [Argo CD](https://argo-cd.readthedocs.io/) – GitOps continuous delivery tool for Kubernetes.
