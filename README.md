@@ -41,6 +41,7 @@
 - [Bitbucket Pipelines](https://bitbucket.org/product/features/pipelines) – CI/CD integrated into Bitbucket repositories.
 - [Azure Pipelines](https://azure.microsoft.com/en-us/products/devops/pipelines/) – CI/CD service for Azure DevOps.
 - [Jenkins](https://www.jenkins.io/) – Widely used open-source automation server.
+- [PikoCI](https://pikoci.com) – Self-hosted CI/CD inspired by Concourse. Single binary, any database, any queue. HCL pipelines, pluggable abstractions.
 
 ## Pipeline Configuration & Orchestration
 
