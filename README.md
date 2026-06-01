@@ -94,6 +94,7 @@
 
 ## Observability & Feedback
 
+- [DeployLens](https://www.deploylens.dev/) - Real-time Kanban dashboard for GitHub deployment pipelines.
 - [Prometheus](https://prometheus.io/) – Metrics collection and monitoring system.
 - [Grafana](https://grafana.com/) – Visualization and dashboards for metrics and logs.
 - [Sentry](https://sentry.io/) – Error tracking and performance monitoring.
