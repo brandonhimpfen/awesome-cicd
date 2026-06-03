@@ -58,6 +58,7 @@
 - [Maven](https://maven.apache.org/) – Dependency management and build tool for Java.
 - [pytest](https://docs.pytest.org/) – Popular Python testing framework.
 - [JUnit](https://junit.org/) – Standard testing framework for Java applications.
+- [BreakShield CI](https://breakshield-ci.vercel.app) - GitHub App that automatically detects breaking API changes in pull requests using AST analysis of TypeScript interfaces and OpenAPI specs. Blocks merge on HIGH/CRITICAL risk.
 
 ## Container & Kubernetes CI/CD
 
