@@ -36,6 +36,7 @@
 
 - [GitHub Actions](https://github.com/features/actions) – Native CI/CD automation integrated with GitHub repositories.
 - [GitLab CI/CD](https://docs.gitlab.com/ee/ci/) – Built-in CI/CD platform within GitLab.
+- [RunMyJob](https://runmyjob.io/) – Cloud runners for GitHub Actions and GitLab CI.
 - [CircleCI](https://circleci.com/) – Cloud-native CI/CD platform with strong container support.
 - [Travis CI](https://www.travis-ci.com/) – Hosted CI service popular in open-source projects.
 - [Bitbucket Pipelines](https://bitbucket.org/product/features/pipelines) – CI/CD integrated into Bitbucket repositories.
