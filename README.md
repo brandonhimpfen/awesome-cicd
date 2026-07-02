@@ -67,6 +67,7 @@
 - [Kustomize](https://kustomize.io/) – Kubernetes-native configuration management.
 - [Skaffold](https://skaffold.dev/) – Continuous development tool for Kubernetes-native apps.
 - [Buildah](https://buildah.io/) – Tool for building OCI container images.
+- [Ocihub](https://ocihub.com/) - Free anonymous Docker/OCI registry where the tag sets the image lifetime (`1h`, `2d`) - push, pull, and let it expire.
 
 ## Deployment & Release Management
 
