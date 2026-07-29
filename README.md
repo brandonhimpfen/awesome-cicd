@@ -80,6 +80,7 @@
 
 - [Snyk](https://snyk.io/) – Security scanning for dependencies and containers.
 - [OWASP Dependency-Check](https://owasp.org/www-project-dependency-check/) – Identify vulnerable dependencies in builds.
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) – Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes.
 - [Trivy](https://aquasecurity.github.io/trivy/) – Container image and filesystem vulnerability scanner.
 - [Checkov](https://www.checkov.io/) – Infrastructure as code security scanner.
 - [GitGuardian](https://www.gitguardian.com/) – Detect secrets and credentials in repositories.
