@@ -1,4 +1,4 @@
-# Awesome CI/CD [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome CI/CD [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -127,11 +127,11 @@
 
 ## Related Awesome Lists
 
-- [Awesome DevOps](https://github.com/awesomelistsio/awesome-devops)
-- [Awesome GitLab](https://github.com/awesomelistsio/awesome-gitlab)
-- [Awesome GitHub](https://github.com/awesomelistsio/awesome-github)
-- [Awesome Kubernetes](https://github.com/awesomelistsio/awesome-kubernetes)
-- [Awesome Docker](https://github.com/awesomelistsio/awesome-docker)
+- [Awesome DevOps](https://github.com/brandonhimpfen/awesome-devops)
+- [Awesome GitLab](https://github.com/brandonhimpfen/awesome-gitlab)
+- [Awesome GitHub](https://github.com/brandonhimpfen/awesome-github)
+- [Awesome Kubernetes](https://github.com/brandonhimpfen/awesome-kubernetes)
+- [Awesome Docker](https://github.com/brandonhimpfen/awesome-docker)
 
 ## Contribute
 
