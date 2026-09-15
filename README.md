@@ -59,6 +59,7 @@
 - [Maven](https://maven.apache.org/) – Dependency management and build tool for Java.
 - [pytest](https://docs.pytest.org/) – Popular Python testing framework.
 - [JUnit](https://junit.org/) – Standard testing framework for Java applications.
+- [quick-gate-python](https://github.com/hermes-labs-ai/quick-gate-python) – Deterministic Python CI quality gate that normalizes Ruff, Pyright, and pytest results into one fail-fast decision, attempts bounded auto-repair, and escalates with machine-readable evidence. Published on PyPI as pygate-ci.
 
 ## Container & Kubernetes CI/CD
 
