@@ -76,6 +76,7 @@
 - [Capistrano](https://capistranorb.com/) – Remote server automation tool for deployments.
 - [LaunchDarkly](https://launchdarkly.com/) – Feature flagging and release control platform.
 - [Feature Flags](https://martinfowler.com/articles/feature-toggles.html) – Progressive delivery and deployment safety techniques.
+- [Deploy-Drift Guard](https://github.com/foxscar-git-hub/deploy-drift-guard) – GitHub Action that verifies the live deployed commit matches the latest pushed commit, catching silent "deploy didn't actually ship" failures with no secrets required.
 
 ## DevSecOps & Security
 
